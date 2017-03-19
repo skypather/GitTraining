@@ -3,4 +3,6 @@
 Add a few information to the README.md file
 Add one new line for Example branch.
 
-The is the final new change I would like to keep
+The is the final new change I would like to keep.
+
+This is for another new different Git function.
